@@ -11,43 +11,6 @@ const isAdult = age >= 18; // true/false
 const isLoggedIn = true;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // isAdult
 // isLoggedIn
 // let the user in if its an adult or if he is logged in
