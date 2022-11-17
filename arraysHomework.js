@@ -8,14 +8,17 @@ console.log (numbers[thirdIndex]);
 
 // TEST CODE: ACCEPTED
 
-const numbers = [999, 545];
+let ns = [999, 545];
 
-const arr2 = 0;
-const arr3 = 1;
+let arr2 = 0;
+let arr3 = 1;
 
-console . log(numbers [arr1  arr2]); join
+// console . log(numbers [arr1  arr2]); join
 
 //TEST CODE No1: ACCEPTED - bmw
+
+let studentsNames = ("Pesho");
+console.log(studentsNmaes);
 
 
 
