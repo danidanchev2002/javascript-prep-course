@@ -17,8 +17,8 @@ let studentNames = ["Pesho", "Gosho", "Ivan"];
 // console . log(numbers [arr1  arr2]); join
 
 //TEST CODE No1: ACCEPTED - bmw
-
-// let numbersAfterTen = [11, 12, 13];
+ 
+// let numbersAfterTen = [11, 12, 13]; 
 
 // console.log(numbersAfterTen)
 // console.log(numbersAfterTen[2])

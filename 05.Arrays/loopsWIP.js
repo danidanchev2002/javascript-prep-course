@@ -18,7 +18,7 @@ console.log(dailyTemperature);
 
 }
 
-// TEST ACCEPTED: 18 16 14 12 10 8 6 4 
+// TEST ACCEPTED: 18 16 14 12 10 8 6 4 . Ctrl+S 
 
 let numberOfUsers = ['Gosho', 'Pesho', 'Ivan'];
  console.log (numberOfUsers);
