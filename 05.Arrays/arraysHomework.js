@@ -14,7 +14,7 @@ let studentNames = ["Pesho", "Gosho", "Ivan"];
 // const arr2 = 0;
 // const arr3 = 1;
 
-// console . log(numbers [arr1  arr2]); join
+// console . log(numbers [arr1  arr2]); 
 
 //TEST CODE No1: ACCEPTED - bmw
  
