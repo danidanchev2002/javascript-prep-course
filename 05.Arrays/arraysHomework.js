@@ -16,7 +16,6 @@ let studentNames = ["Pesho", "Gosho", "Ivan"];
 
 // console . log(numbers [arr1  arr2]); 
 
-//TEST CODE No1: ACCEPTED - bmw
  
 // let numbersAfterTen = [11, 12, 13]; 
 
