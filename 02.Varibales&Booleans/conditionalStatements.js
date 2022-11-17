@@ -25,24 +25,24 @@
 let f = 10;
 let h = 17;
 
-console . log (f < h);
-console . log (f > h);
+console.log(f < h);
+console.log(f > h);
 
 // test: ACCEPTED
 
 let y = 10;
 let o = 10;
 
-console . log (y = < o);
-console . log (y > o );
+console.log(y = < o);
+console.log(y > o );
 
 // test: Help From Nasko !!!
 
 let x = 10;
 let y = 20;
 
-console . log (x + x <= y ); // true
-console . log ( x + x >= y ); // true 
+console.log(x + x <= y); // true
+console.log(x + x >= y); // true
 
 // test: ACCEPTED
 
