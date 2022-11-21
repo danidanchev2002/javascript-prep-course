@@ -51,5 +51,5 @@
 
 //let carSearchResult = googleSearch[2] + emptySpace + modelBrabus[3];
 
-//console.log(carSearchResult)
+//console.log(carSearchResult) //< това го направих за да push - на
 
